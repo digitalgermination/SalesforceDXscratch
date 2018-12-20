@@ -1,0 +1,504 @@
+[
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545261657978,
+            "changeTime": 1545261657978,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545261657978,
+            "changeTime": 1545261657978,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657209,
+            "changeTime": 1545275657209,
+            "contentHash": "01071d949013e1a55e0f731852b5efd2667a3f6e"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545261657978,
+            "changeTime": 1545261657978,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest",
+        {
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545261693125,
+            "changeTime": 1545271502821,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions\\Account_Manager.customPermission-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions\\Account_Manager.customPermission-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 161,
+            "modifiedTime": 1545275657091,
+            "changeTime": 1545275657091,
+            "contentHash": "b1f7b7c2666d0a707e283c39536ff48f95a1f5a6"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions\\View_Encrypted_Data.customPermission-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions\\View_Encrypted_Data.customPermission-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1545275657094,
+            "changeTime": 1545275657094,
+            "contentHash": "c05aa0af40eafdea1c20ac681a15c7bef784a3b7"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\ACH__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\ACH__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1545275657102,
+            "changeTime": 1545275657102,
+            "contentHash": "ded110690bffbebaccd588d1acff8ce94ac65c5f"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\Power_of_One__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\Power_of_One__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 443,
+            "modifiedTime": 1545275657105,
+            "changeTime": 1545275657105,
+            "contentHash": "34ac95da294c8619da5afd292d09e5c2df0f1008"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\Regional_Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields\\Regional_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 524,
+            "modifiedTime": 1545275657108,
+            "changeTime": 1545275657108,
+            "contentHash": "d90444d12ce031ba58d74b24e7663b828411eb45"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\Provider_Network__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\Provider_Network__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2140,
+            "modifiedTime": 1545275657118,
+            "changeTime": 1545275657118,
+            "contentHash": "77c65a60a76bf28e168fce968463a54f1ca8abdc"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Coverage__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Coverage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1545275657122,
+            "changeTime": 1545275657122,
+            "contentHash": "79f35a577800cf81773153035cbdb8436b77501a"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Encryption_Key__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Encryption_Key__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 457,
+            "modifiedTime": 1545275657125,
+            "changeTime": 1545275657125,
+            "contentHash": "3756ad1b0a8690c4fca7d5d507666cd9fd0c2c5a"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Offering_Details__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Offering_Details__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1545275657128,
+            "changeTime": 1545275657128,
+            "contentHash": "9585d032827df7551212734fafc5ae8d5329de0e"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Power_of_One__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Power_of_One__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 523,
+            "modifiedTime": 1545275657131,
+            "changeTime": 1545275657131,
+            "contentHash": "57ee7a3852dc3c1386a45d43b268cf45bb397804"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Website__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields\\Website__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 346,
+            "modifiedTime": 1545275657134,
+            "changeTime": 1545275657134,
+            "contentHash": "e6933db4bde3519fb5ae39ce164167dac93e3a7a"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\recordTypes\\Provider_Network.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\recordTypes\\Provider_Network.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1545275657137,
+            "changeTime": 1545275657137,
+            "contentHash": "cf73551913836cb778421301679c400e35fd45dc"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1545275657147,
+            "changeTime": 1545275657147,
+            "contentHash": "38a7216a9b11a005494fa1ff99f33354953429aa"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9869,
+            "modifiedTime": 1545275657155,
+            "changeTime": 1545275657155,
+            "contentHash": "bd2c2ecdc5f4dcd17cd1bebb398e86951f01cb44"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1545275657162,
+            "changeTime": 1545275657162,
+            "contentHash": "722d34fda3220f8f1610747462c4a581050747c6"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9723,
+            "modifiedTime": 1545275657169,
+            "changeTime": 1545275657169,
+            "contentHash": "842446b680ee835323a59311767f8701172b8b7a"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Provider_Network__c-Provider Network Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts\\Provider_Network__c-Provider Network Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3365,
+            "modifiedTime": 1545275657172,
+            "changeTime": 1545275657172,
+            "contentHash": "8eff5745af90f6c877639a04d2ca4574d46cc507"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6285,
+            "modifiedTime": 1545275657178,
+            "changeTime": 1545275657178,
+            "contentHash": "e97761b678eb9ab7aa5a6c097e48855f33e3f03c"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6625,
+            "modifiedTime": 1545275657183,
+            "changeTime": 1545275657183,
+            "contentHash": "8a2f35915b4e706e17febd0bdf408d0bedd9d2e6"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6289,
+            "modifiedTime": 1545275657187,
+            "changeTime": 1545275657187,
+            "contentHash": "757ea8fee8645fc978c599e2566b41cf49f0d4cd"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20151,
+            "modifiedTime": 1545275657204,
+            "changeTime": 1545275657204,
+            "contentHash": "513d3d8149cb5f20faef04fd41c6239b704b3f8a"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Provider Network Administrator.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles\\Provider Network Administrator.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7471,
+            "modifiedTime": 1545275657207,
+            "changeTime": 1545275657207,
+            "contentHash": "27b81630e1bf6fcfacf24fabcea3475fd21dba11"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\permissionsets\\View_Encrypted_Data.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\permissionsets\\View_Encrypted_Data.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2492,
+            "modifiedTime": 1545275657210,
+            "changeTime": 1545275657210,
+            "contentHash": "647743f1b9c97f5180640863a8b47438f3aae13c"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\customPermissions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657093,
+            "changeTime": 1545275657093,
+            "contentHash": "ae9ec1ab56e8166cfebe09b37b2e50817fd15fa2"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657105,
+            "changeTime": 1545275657105,
+            "contentHash": "5a6961771bfa9e06489c9f57f93b8812d63ea7f9"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657098,
+            "changeTime": 1545275657098,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657114,
+            "changeTime": 1545275657114,
+            "contentHash": "9b76c2104bb2ed3cc24c56b228f4757952a673a3"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657134,
+            "changeTime": 1545275657134,
+            "contentHash": "33d71e728697d65db796e0d45a4743d0c6634ff3"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657131,
+            "changeTime": 1545275657131,
+            "contentHash": "f78a5c48adb4b7f81850f0aa6b56ade920b16705"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\objects\\Provider_Network__c\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657135,
+            "changeTime": 1545275657135,
+            "contentHash": "b794e91d97d3839dade9d476b90b2b612ce1076d"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657171,
+            "changeTime": 1545275657171,
+            "contentHash": "3b67a5d2ad90276d4f1c45fd8f4187839ab9ee96"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657206,
+            "changeTime": 1545275657206,
+            "contentHash": "43c3e71113806ab1d1de26fc0f3a1e8d7d69fafa"
+        }
+    ],
+    [
+        "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Seth\\SFDXtest\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545275657209,
+            "changeTime": 1545275657209,
+            "contentHash": "501a31530efe68dc6c655510d929f9a53dbf2654"
+        }
+    ]
+]
